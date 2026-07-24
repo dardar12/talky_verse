@@ -13,7 +13,7 @@ TalkyVerse is a simple yet powerful cross-platform video calling application bui
   * Mute/Unmute Microphone
   * Switch Front/Rear Camera
   * End Call / Hang Up
-* **Secure Credentials:** Isolates sensitive API credentials to keep the project clean and safe.
+
 
 ---
 
