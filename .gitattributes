@@ -1,0 +1,20 @@
+# Ignore CMake and C++
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+*.cc linguist-vendored
+*.cxx linguist-vendored
+
+# Ignore HTML and Web files
+*.html linguist-vendored
+*.htm linguist-vendored
+
+# Ignore Native platform folders
+android/* linguist-vendored
+ios/* linguist-vendored
+windows/* linguist-vendored
+macos/* linguist-vendored
+linux/* linguist-vendored
+web/* linguist-vendored
