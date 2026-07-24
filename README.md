@@ -32,6 +32,6 @@ The project features a straightforward and clean structure:
 ```text
 lib/
 ├── main.dart          # Entry point of the app & initial configuration
-├── main_screen.dart   # Home screen to type Meeting ID & press 'Join Call'
+├── home_screen.dart   # Home screen to type Meeting ID & press 'Join Call'
 ├── call_screen.dart   # Active Video Call screen showing real-time video stream
 └── secret.dart        # Configuration file storing ZEGOCLOUD AppID and AppSign
